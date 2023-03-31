@@ -31,7 +31,7 @@ function OverView() {
 function DashBoard() {
   return(
   <div>
-      <h1>Welcome to DashBoard🤩</h1>
+      <h1>Welcome to DashBoard📈</h1>
     <SummaryBoxList/>
     <MonthlyProfits/>
   </div>
